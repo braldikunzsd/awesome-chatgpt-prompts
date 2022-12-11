@@ -8,7 +8,7 @@ In this repository, you will find a variety of prompts that can be used with Cha
 
 To get started, simply clone this repository and use the prompts in the README.md file as input for ChatGPT. You can also use the prompts in this file as inspiration for creating your own.
 
-We hope you find these prompts useful and have fun using ChatGPT!
+We hope you find these prompts useful and have fun using ChatGPT!!!
 
 **[View on GitHub](https://github.com/f/awesome-chatgpt-prompts)**
 
